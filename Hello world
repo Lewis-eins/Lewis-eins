@@ -1,0 +1,5 @@
+Hello guys this is a hello world code written in C language
+ #include<studio.h>
+  int main()
+   { printf("hello world");
+    }
